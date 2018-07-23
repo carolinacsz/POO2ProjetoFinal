@@ -1,4 +1,4 @@
-CS520: tic_tac_toe
+Jogo da Velha
 ===========
 
-Tic Tac Toe game in spring MVC in maven
+Jogo da velha com Spring MVC e Maven
